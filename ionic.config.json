@@ -1,0 +1,8 @@
+{
+  "name": "chapter2",
+  "app_id": "adc11c61",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
